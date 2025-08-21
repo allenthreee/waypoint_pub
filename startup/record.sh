@@ -1,0 +1,1 @@
+rosbag record -O "$1" /livox/lidar /livox/imu /camera/color/image_raw/compressed
